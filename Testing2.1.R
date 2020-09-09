@@ -1,1 +1,1 @@
-new script
+print("new script")
